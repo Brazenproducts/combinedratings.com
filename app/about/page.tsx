@@ -79,6 +79,9 @@ export default function AboutPage() {
               all-time ratings. The classic number, but now from two sources.
             </div>
           </div>
+          <div className="mt-6 bg-blue-50 border border-blue-200 rounded-xl p-4 text-sm text-blue-800">
+            <strong>🔒 Anti-gaming rule:</strong> Every window ends at <em>today</em>. Restaurants choose how far back to look — 90 days, 1 year, or all time — but they can never hide recent reviews. A restaurant can&apos;t cherry-pick a good period from 2022 while hiding bad recent ones. The newest ratings are always included.
+          </div>
         </div>
       </section>
 
